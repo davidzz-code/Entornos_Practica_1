@@ -1,5 +1,7 @@
 # Entornos_Practica_1
 
+## Com podrieu evitar el problemes que hagin pogut sorgir?
+
 Nos hemos encontrado un problema en el paso 17 - 18.
 
 PROBLEMA:
