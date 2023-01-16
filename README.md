@@ -10,3 +10,5 @@ El compañero no tenía opción a borrar el elemento modificado ya que no se hab
 SOLUCIÓN:
 Para solucionarlo, hemos decidido unir la rama creada a la main usando un "merge" y finalmente con un "push" subir las modificaciones a GitHub.
 De esta manera el compañero ha podido hacer un "pull" de la rama main en la que estaba el archivo modificado que posteriormente el compañero a podido borrar.
+
+David Ramírez y Sergio Majada
